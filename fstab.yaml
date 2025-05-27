@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p124863-e1228730.adobeaemcloud.com/bin/franklin.delivery/nit23uec/forms-live/main"
+    type: "markup"
+    suffix: ".html"
